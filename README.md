@@ -9,18 +9,19 @@ A 46 minute course by Brad Traversy https://www.youtube.com/watch?v=3YW65K6LcIA 
 ## Start, End Date & Final Project
 
 - **Start:** 26th Feb 2022
-- **End:**
-- **URL:** [link](link) - Cloudflare Pages
+- **End:** 26th Feb 2020
+- **URL:** [[link](https://flexbox-crash-course-2022.pages.dev/)](<[link](https://flexbox-crash-course-2022.pages.dev/)>) - Cloudflare Pages
 
 ## What I liked & disliked
 
 - I really need to get up to speed with Flexbox as its everywhere now
 - Loving emmet! .item\*3{text}
 - Centring text horizontally and vertically is way easier `justify-content: center;` & `align-items: center;`
+- Really straight forwards, contain in a container with `display: flex;`, then use `justify-content` & `align-items` to set their placement. And of course we can use `flex-direction: column;` to change from the default `row` value to `column` to make them stack
 
 ## How could I expand upon this project?
 
--
+- I got the just of it pretty quickly. Was nice to make something simple & pretty.
 
 ## ⭐️ Course Contents ⭐️
 
