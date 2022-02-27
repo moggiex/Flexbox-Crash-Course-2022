@@ -1,6 +1,6 @@
 <image src="https://user-images.githubusercontent.com/16717155/155543377-70daf41c-8c0e-448b-8f72-f5238219e1aa.png" width="350" align="right" />
 
-# RFlexbox Crash Course 2022
+# Flexbox Crash Course 2022
 
 > A deep dive into using Flexbox from the beginning
 
